@@ -1,7 +1,7 @@
 import turtle
 import random
 
-
+#the pygame screen
 w = turtle.Screen()
 w.bgcolor("black")
 w.title("SUN")
