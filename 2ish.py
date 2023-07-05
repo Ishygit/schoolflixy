@@ -9,6 +9,7 @@ size = 20
 distance = 10
 squares = 5
 
+#creating the function
 def draw_square():
     for _ in range(4):
         t.forward(size)
