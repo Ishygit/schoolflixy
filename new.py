@@ -20,4 +20,4 @@ for i in range(15):
     tess.forward(10)        # Move tess along a little
     tess.right(18)          #    and give her some turn
 
-wn.mainloop()
+wn.mainloop()                #this shows the window
